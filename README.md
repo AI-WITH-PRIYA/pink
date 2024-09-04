@@ -5,12 +5,13 @@
 -👩‍💼 working on
     *  Enhancing AI-driven client insights using Python, OpenAI, and Haystack
     * Optimizing AI models for cost-effectiveness without compromising performance.
+      
 -🔧 Technologies & Tools
---Languages: Python
---Frameworks: PyTorch, TensorFlow , Keras, Transformers
---Libraries: OpenAI API, Haystack, Weaviate , scikit-learn, NLTK, spaCy, TextBlob, Gensim, pandas, Numpy, Matplotlib, SciPy, Flask, BeautifulSoup
---Tools: Git, Docker, WSL
---Platforms: Azure, AWS      
+   --Languages: Python
+   --Frameworks: PyTorch, TensorFlow , Keras, Transformers
+   --Libraries: OpenAI API, Haystack, Weaviate , scikit-learn, NLTK, spaCy, TextBlob, Gensim, pandas, Numpy, Matplotlib, SciPy, Flask, BeautifulSoup
+   --Tools: Git, Docker, WSL
+   --Platforms: Azure, AWS      
 
   
 
